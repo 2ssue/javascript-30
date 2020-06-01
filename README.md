@@ -1,12 +1,14 @@
 # Javascript 30 project
 
-[링크](https://javascript30.com/)
+Using [this site](https://javascript30.com/), **30** DAY **VANILLA JS** CODING CHALLENGE
 
-30 일 바닐라 JS 코딩 도전
+BUILD **30** THINGS IN **30** DAYS WITH **30** TUTORIALS
 
-30 튜토리얼 30 일 30 물건을 만드는
-
-- No Frameworks
+## ❌
+- No Frameworks 
 - No Compilers
 - No Libraries
 - No Boilerplate
+
+## Completed Project 😁
+- ### <a href="./01 - JavaScript Drum Kit/index-START.html">Day 1</a>
