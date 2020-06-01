@@ -11,4 +11,5 @@ BUILD **30** THINGS IN **30** DAYS WITH **30** TUTORIALS
 - No Boilerplate
 
 ## Completed Project 😁
+You can see the completed project on [this site](https://2ssue.github.io/javascript-30/)
 - ### <a href="./01 - JavaScript Drum Kit/index-START.html">Day 1</a>
