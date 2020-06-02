@@ -15,3 +15,6 @@ You can see the completed project on [this site](https://2ssue.github.io/javascr
 - ### <a href="https://2ssue.github.io/javascript-30/01 - JavaScript Drum Kit/index-START.html">Day 1</a>
   - **Drum Kit**
   - Press the key, Make some noise!
+- ### <a href="https://2ssue.github.io/javascript-30/02 - JS and CSS Clock/index-START.html">Day 2</a>
+  - **JS and CSS Clock**
+  - Tick-tock! ⏱
