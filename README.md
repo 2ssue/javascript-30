@@ -18,3 +18,6 @@ You can see the completed project on [this site](https://2ssue.github.io/javascr
 - ### <a href="https://2ssue.github.io/javascript-30/02 - JS and CSS Clock/index-START.html">Day 2</a>
   - **JS and CSS Clock**
   - Tick-tock! ⏱
+- ### <a href="https://2ssue.github.io/javascript-30/03 - CSS Variables/index-START.html">Day 3</a>
+  - **CSS Variables**
+  - Learn about CSS variables while changing photo style
