@@ -21,3 +21,6 @@ You can see the completed project on [this site](https://2ssue.github.io/javascr
 - ### <a href="https://2ssue.github.io/javascript-30/03 - CSS Variables/index-START.html">Day 3</a>
   - **CSS Variables**
   - Learn about CSS variables while changing photo style
+- ### <a href="https://2ssue.github.io/javascript-30/04 - Array Cardio Day 1/index-START.html">Day 4</a>
+  - **Array Cardio Day 1**
+  - Learn about Array function of JavaScript. (`map`, `sort`, `reduce`, `filter`)
